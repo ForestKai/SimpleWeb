@@ -1,0 +1,1 @@
+As a student user, the student must be able to see all the lecture info, so the student can preview/review the Lecture materials.

@@ -1,0 +1,1 @@
+As a student user, the student must be able to see the title of the course when opening the website, so the student can make sure he is one the right page.

@@ -1,0 +1,1 @@
+As a professor user, the student must have easy access to Syllabus, so the Syllabus can answer most of their questions.
